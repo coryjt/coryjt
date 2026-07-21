@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I've been learning using Boot.dev and have completed these projects so far:
+[![Boot.dev Build a Bookbot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/b6ac34cc-1ab1-44cd-8e1e-e17a85d8e48b.jpeg?v=1763689705)](https://www.boot.dev/certificates/b6ac34cc-1ab1-44cd-8e1e-e17a85d8e48b)
+[![Boot.dev Build Asteroids using Python and Pygame certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/8cd9985b-b5ee-4242-806e-61dc047b4573.jpeg?v=1767751106)](https://www.boot.dev/certificates/8cd9985b-b5ee-4242-806e-61dc047b4573)
+[![Boot.dev Build an AI Agent in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/db3ede9c-542d-4ebb-8870-09efc7ff8ca8.jpeg?v=1783972660)](https://www.boot.dev/certificates/db3ede9c-542d-4ebb-8870-09efc7ff8ca8)
+[![Boot.dev Build a Static Site Generator in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/5fe8f3dd-c35e-4702-b947-4d4efe2db263.jpeg?v=1784613468)](https://www.boot.dev/certificates/5fe8f3dd-c35e-4702-b947-4d4efe2db263)
